@@ -1,7 +1,8 @@
 # xiao
 一款基于 bootstrap@5.3.3 开发的 Typecho 单栏主题
 
-![首页](https://z6666.zhuxu.asia/img/2024/11/9d5f468347160d95.png)
+## 主题简介
+[xiao主题](https://zhuxu.asia/archives/5/）
 
 ## 下载主题「压缩包内含友链插件」
 [朱某的下载站](https://xz.zhuxu.asia/xiao)<br>
@@ -9,12 +10,6 @@
 
 ## 使用教程
 [主题使用教程](https://zhuxu.asia/archives/35/)
-
-## 捐赠支持
-
-一件好的艺术品需要很大的时间与精力，如果你的资金充裕，你可以选择捐赠本主题使它更加完美
-
- ![1719577394775.webp](https://z6666.zhuxu.asia/2024/06/28/667eab33ac272.webp)
 
 ## 更新日志
 
