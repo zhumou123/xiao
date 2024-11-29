@@ -2,7 +2,7 @@
 一款基于 bootstrap@5.3.3 开发的 Typecho 单栏主题
 
 ## 主题简介
-[xiao主题](https://zhuxu.asia/archives/5/）
+[xiao主题](https://zhuxu.asia/archives/5/)
 
 ## 下载主题「压缩包内含友链插件」
 [朱某的下载站](https://xz.zhuxu.asia/xiao)<br>
